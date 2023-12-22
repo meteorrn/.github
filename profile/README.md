@@ -1,6 +1,7 @@
 We keep the packages maintained, up to date with Meteor core releases and sometimes even improve them.
 MeteorRN is a co-organization of [Meteor Community Packages](https://github.com/Meteor-Community-Packages).
 
+## Join the community
 
 https://meteor-community.slack.com - Join us at our Slack community!
 
